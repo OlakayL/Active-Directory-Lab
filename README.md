@@ -59,6 +59,7 @@ This lab demonstrates the installation, configuration, and management of **Activ
 * **Subnet:** `172.16.0.0/24` (NAT)
 
 ### Network Topology Diagram
+![Network Topology Diagram](./Images/AD_Lab_Topology.png)
 ```text
 [ Windows 11 Client ] <---> [ Internal Switch ] <---> [ Domain Controller (DC01) ]
   IP: 172.16.0.100                                     IP: 172.16.0.1
